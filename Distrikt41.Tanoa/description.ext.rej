@@ -1,0 +1,10 @@
+diff a/Distrikt41.Tanoa/description.ext b/Distrikt41.Tanoa/description.ext	(rejected hunks)
+@@ -1,6 +1,6 @@
+ author = "Tonic - Thx for that Framework! D41-Team";
+-onLoadName = "Distrikt41 Life V1.4";
+-onLoadMission = "Ein RPG-Gamemode entwickelt von Tonic - Edit by Distrikt41.de (V1.4)";
++onLoadName = "Distrikt41 Life V1.5";
++onLoadMission = "Ein RPG-Gamemode entwickelt von Tonic - Edit by Distrikt41.de (V1.5)";
+ joinUnassigned = 0;
+ respawn = BASE;
+ respawndelay = 5;
