@@ -15,6 +15,11 @@ Dafür wurden die neuen APEX-Fahrzeuge bereits integriert und mit Classnames ver
 
 Mehr Infos zu den Mod-Files findet ihr im SteamWorkshop: 
 http://steamcommunity.com/sharedfiles/filedetails/?id=756137738
+_______________________________________________________________________________________________________________________
 
+Update vom 30.10.2016:
 
+Mission-File von Bornholm Version 1.4 ebenfalls hochgeladen (life_server wurde nicht geändert). 
+Dort sollten alle Daten soweit identisch sein, einzig die Shops und die mission.sqm dürften abweichen (auf Bornholm-Karte abgestimmt).
+Wie gewohnt, keine Garantie das die Sachen nach den 2-3 Arma-Updates laufen und einwandfrei funktionieren.
 
